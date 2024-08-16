@@ -143,7 +143,7 @@ html, body {
   border-radius: 3px;
   border-width: 0.15rem;
   border-color: rgb(134, 164, 77);
-  top: 0.6vh;
+  top: 0.2vh;
 }
 
 .disabled > .icon {
