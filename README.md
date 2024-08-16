@@ -1,10 +1,11 @@
-# nmsh-menu
+# qb-menu
 Menu System for the QBCore Framework
 
 # My Discord Server
 https://discord.gg/AXEVAqH7yX
 
-![Uploading image.png…](https://cdn.discordapp.com/attachments/1195409963024142346/1195409963544215643/image.png?ex=65b3e348&is=65a16e48&hm=6e6668fc0202973c29a25a29e835fd48e830e9fbcdb2029e0de6eead72185570&)
+![image](https://github.com/user-attachments/assets/8ffe3e11-1b05-49ba-bcf9-74982a13f294)
+![image](https://github.com/user-attachments/assets/4ee74fc1-8843-4a2f-80b1-078367ed7e6f)
 
 
 --[[
