@@ -1,8 +1,6 @@
 # qb-menu
 Menu System for the QBCore Framework
 
-# My Discord Server
-https://discord.gg/AXEVAqH7yX
 
 ![image](https://github.com/user-attachments/assets/8ffe3e11-1b05-49ba-bcf9-74982a13f294)
 ![image](https://github.com/user-attachments/assets/4ee74fc1-8843-4a2f-80b1-078367ed7e6f)
