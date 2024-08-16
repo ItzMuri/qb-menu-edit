@@ -121,9 +121,9 @@ html, body {
   overflow: hidden;
   padding: 0.45rem;
   border-style: solid;
+  border-radius: 3px;
   border-width: 0.15rem;
   border-color: rgba(110, 110, 119, 0.925);
-  border-radius: 3px;
   display: flex;
   flex-direction: column;
   cursor: pointer;
@@ -141,7 +141,7 @@ html, body {
   height: 20px;
   border-style: solid;
   border-radius: 3px;
-  border-width: 0.1px;
+  border-width: 0.15rem;
   border-color: rgb(134, 164, 77);
   top: 0.6vh;
 }
@@ -157,7 +157,7 @@ html, body {
   height: 20px;
   border-style: solid;
   border-radius: 3px;
-  border-width: 0.1px;
+  border-width: 0.15rem;
   border-color: rgb(137, 60, 61);
   top: 0.6vh;
 }
@@ -167,7 +167,7 @@ html, body {
   background: radial-gradient(circle, rgba(74, 94, 38, 0.684) 0%, rgba(61, 79, 31, 0.256) 100%);
   border-style: solid;
   border-radius: 3px;
-  border-width: 0.1px;
+  border-width: 0.15rem;
   border-color: rgb(134, 164, 77);
 }
 
@@ -197,6 +197,9 @@ html, body {
 
 .disabled {
   /* background: rgba(102, 102, 102, 0.9) !important; */
+  border-style: solid;
+  border-radius: 3px;
+  border-width: 0.15rem;
   background: radial-gradient(circle, rgba(105,46,47, 0.089) 0%, rgba(105,46,47, 0.177) 100%) !important;
   border-color: rgb(101, 44, 45);
   cursor: not-allowed;
