@@ -143,6 +143,7 @@ html, body {
   border-radius: 3px;
   border-width: 0.1px;
   border-color: rgb(134, 164, 77);
+  top: 0.6vh;
 }
 
 .disabled > .icon {
@@ -158,6 +159,7 @@ html, body {
   border-radius: 3px;
   border-width: 0.1px;
   border-color: rgb(137, 60, 61);
+  top: 0.6vh;
 }
 
 .button:hover {
