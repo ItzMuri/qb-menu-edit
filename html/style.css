@@ -149,9 +149,9 @@ html, body {
 .button:hover {
   transition: all 0.5s;
   background: radial-gradient(circle, rgba(74, 94, 38, 0.684) 0%, rgba(61, 79, 31, 0.256) 100%);
-  border-style: solid;
   border-radius: 3px;
-  border-width: 0.1px;
+  border-style: solid;
+  border-width: 0.15rem;
   border-color: rgb(134, 164, 77);
 }
 
@@ -191,7 +191,7 @@ html, body {
   cursor: not-allowed;
   border-style: solid;
   border-radius: 3px;
-  border-width: 0.15rem;
+   border-width: 0.15rem;
   border-color: rgb(137, 60, 61);
 }
 
